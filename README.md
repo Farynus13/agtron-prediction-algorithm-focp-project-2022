@@ -2,6 +2,6 @@
 
 Predicting measurement of roasted coffee color (agtrons)
 based on data retrieved from roasting curve (.alog file)
-using simple neural network
+using simple neural network in C
 
 For more information read project_documentation.pdf
